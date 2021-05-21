@@ -4,4 +4,20 @@
     margin: 0px;
     padding: 0px;
 }
+.body-all {
+    font-family: 'Varela Round', sans-serif;
+    background-color: #E8E6E6;
+    margin: 0;
+    padding: 0;
+}
+
+.yelloSquare {
+    position: absolute;
+    margin-top: -5px;
+    width: 100%;
+    padding: 0 0 0 0;
+    background-color: #c7c405;
+}
+
+
 /* A vous de faire votre propre feuille de styles en dessous !! */
