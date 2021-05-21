@@ -16,8 +16,24 @@
     margin-top: -5px;
     width: 100%;
     padding: 0 0 0 0;
-    background-color: #c7c405;
+    background-color: #faf40a;
 }
 
+.center {
+    text-align: center;
+    font-weight: 2900;
+    float: ;
+}
+.blackSquare {
+    position: absolute;
+    margin-top: 200px;
+    width: 100%;
+    padding: 0 0 0;
+    background-color: #000000;
+}
+#MEGA {
+    position: absolute;
+    margin-top: 250px;
+}
 
 /* A vous de faire votre propre feuille de styles en dessous !! */
