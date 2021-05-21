@@ -37,6 +37,7 @@
     font-weight: bold;
     font-size: 40px;
 }
+
 .buttonSelect{
     display: inline-block;
     background-color: #f8f405;
@@ -71,7 +72,7 @@
     display: inline-block;
     background-color: #f8f405;
     border-radius: 10px;
-    border: 2px double #cccccc;
+    border: 4px double #cccccc;
     color: #eeeeee;
     font-size: 28px;
     padding: 20px;
@@ -82,7 +83,6 @@
     margin-top: 15px;
     position: absolute;
 }
-
 .boutonPersonne1 {
     display: inline-block;
     background-color: #f8f405;
@@ -115,7 +115,6 @@
     margin-top: 400px;
     position: absolute;
 }
-
 .boutonPersonne3 {
     display: inline-block;
     background-color: #f8f405;
@@ -132,7 +131,6 @@
     margin-top: 400px;
     position: absolute;
 }
-
 .boutonPersonne4 {
     display: inline-block;
     background-color: #f8f405;
@@ -149,7 +147,6 @@
     margin-top: 400px;
     position: absolute;
 }
-
 .boutonPersonne5 {
     display: inline-block;
     background-color: #f8f405;
@@ -166,7 +163,6 @@
     margin-top: 400px;
     position: absolute;
 }
-
 .boutonPersonne6 {
     display: inline-block;
     background-color: #f8f405;
@@ -180,10 +176,9 @@
     cursor: pointer;
     margin-left: 270px;
     float: left;
-    margin-top: 400px;
+    margin-top: 750px;
     position: absolute;
 }
-
 .boutonPersonne7 {
     display: inline-block;
     background-color: #f8f405;
@@ -197,10 +192,9 @@
     cursor: pointer;
     margin-left: 520px;
     float: left;
-    margin-top: 400px;
+    margin-top: 750px;
     position: absolute;
 }
-
 .boutonPersonne8 {
     display: inline-block;
     background-color: #f8f405;
@@ -214,10 +208,9 @@
     cursor: pointer;
     margin-left: 770px;
     float: left;
-    margin-top: 400px;
+    margin-top: 750px;
     position: absolute;
 }
-
 .boutonPersonne9 {
     display: inline-block;
     background-color: #f8f405;
@@ -231,7 +224,7 @@
     cursor: pointer;
     margin-left: 1020px;
     float: left;
-    margin-top: 400px;
+    margin-top: 750px;
     position: absolute;
 }
 .boutonPersonne10 {
@@ -247,8 +240,18 @@
     cursor: pointer;
     margin-left: 1270px;
     float: left;
-    margin-top: 400px;
+    margin-top: 750px;
     position: absolute;
+}
+.Nom {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+}
+.Prenom {
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
 }
 
 
