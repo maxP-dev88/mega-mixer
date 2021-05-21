@@ -47,7 +47,7 @@
     padding: 20px;
     width: 100px;
     cursor: pointer;
-    margin-left: 399px;
+    margin-left: 420px;
     margin-top: 50px;
     float: left;
 
@@ -77,7 +77,7 @@
     padding: 20px;
     width: 100px;
     cursor: pointer;
-    margin-left: 100px;
+    margin-left: -50px;
     float: left;
     margin-top: 15px;
     position: absolute;
@@ -94,7 +94,158 @@
     width: 200px;
     height: 300px;
     cursor: pointer;
-    margin-left: 100px;
+    margin-left: 270px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+.boutonPersonne2 {
+    display: inline-block;
+    background-color: #f8f405;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    margin-left: 520px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.boutonPersonne3 {
+    display: inline-block;
+    background-color: #f8f405;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    margin-left: 770px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.boutonPersonne4 {
+    display: inline-block;
+    background-color: #f8f405;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    margin-left: 1020px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.boutonPersonne5 {
+    display: inline-block;
+    background-color: #f8f405;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    margin-left: 1270px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.boutonPersonne6 {
+    display: inline-block;
+    background-color: #f8f405;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    margin-left: 270px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.boutonPersonne7 {
+    display: inline-block;
+    background-color: #f8f405;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    margin-left: 520px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.boutonPersonne8 {
+    display: inline-block;
+    background-color: #f8f405;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    margin-left: 770px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+
+.boutonPersonne9 {
+    display: inline-block;
+    background-color: #f8f405;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    margin-left: 1020px;
+    float: left;
+    margin-top: 400px;
+    position: absolute;
+}
+.boutonPersonne10 {
+    display: inline-block;
+    background-color: #f8f405;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    cursor: pointer;
+    margin-left: 1270px;
     float: left;
     margin-top: 400px;
     position: absolute;
