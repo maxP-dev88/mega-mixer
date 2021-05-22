@@ -65,7 +65,7 @@
     cursor: pointer;
     margin-left: -400px;
     float: left;
-    margin-top: 15px;
+    margin-top: 50px;
     position: absolute;
 }
 .BoutonInitialisers{
@@ -80,7 +80,7 @@
     cursor: pointer;
     margin-left: -50px;
     float: left;
-    margin-top: 15px;
+    margin-top: 50px;
     position: absolute;
 }
 .boutonPersonne1 {
@@ -243,17 +243,57 @@
     margin-top: 750px;
     position: absolute;
 }
+
+.Smiley {
+
+    background-image: url("smiley/smiley-2.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+}
+.Smiley2 {
+
+    background-image: url("smiley/smiley-3.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+
+}
+.Smiley3 {
+
+    background-image: url("smiley/smiley-4.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+}
+.Smiley4 {
+
+    background-image: url("smiley/smiley-5.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+}
+.Smiley5 {
+
+    background-image: url("smiley/smiley-6.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+}
+
 .Nom {
     text-align: center;
     color: black;
     font-family: sans-serif;
+    margin-top: 200px ;
 }
 .Prenom {
     text-align: center;
     color: black;
     font-family: sans-serif;
 }
-
-
-
-
