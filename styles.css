@@ -33,9 +33,9 @@
 #MIXER{
     float: right;
     margin-top: 70px;
-    margin-right: 760px;
     font-weight: bold;
     font-size: 40px;
+    margin-right: 650px;
 }
 
 .buttonSelect{
@@ -52,6 +52,7 @@
     margin-top: 50px;
     float: left;
 
+
 }
 .buttonPlacer{
     display: inline-block;
@@ -65,7 +66,7 @@
     cursor: pointer;
     margin-left: -400px;
     float: left;
-    margin-top: 50px;
+    margin-top: 15px;
     position: absolute;
 }
 .BoutonInitialisers{
@@ -80,7 +81,7 @@
     cursor: pointer;
     margin-left: -50px;
     float: left;
-    margin-top: 50px;
+    margin-top: 15px;
     position: absolute;
 }
 .boutonPersonne1 {
@@ -285,15 +286,57 @@
     margin-left: 40px;
     position: absolute;
 }
+.Smiley6 {
 
+    background-image: url("smiley/smiley-7.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+}
+.Smiley7 {
+
+    background-image: url("smiley/smiley-8.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+}
+.Smiley8 {
+
+    background-image: url("smiley/smiley-9.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+}
+.Smiley9 {
+
+    background-image: url("smiley/smiley-10.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+}
+.Smiley10 {
+
+    background-image: url("smiley/smiley-11.png");
+    height: 134px;
+    width: 129px;
+    margin-left: 40px;
+    position: absolute;
+}
 .Nom {
     text-align: center;
     color: black;
-    font-family: sans-serif;
+    font-family: 'Varela Round';
     margin-top: 200px ;
+
+
 }
 .Prenom {
     text-align: center;
     color: black;
-    font-family: sans-serif;
+    font-family: 'Varela Round';
+
 }
