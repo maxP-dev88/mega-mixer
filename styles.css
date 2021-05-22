@@ -4,18 +4,18 @@
     margin: 0;
     padding: 0;
 }
-.yellosquare {
+.yellosquare { /*Banière de titre */
     position: absolute ;
     margin-top: -5px;
     width: 100%;
     padding: 0 0 0 0;
-    background: #f8f405;
+    background: #d7d613;
 }
 .mixers{
     margin-left: 750px;
 
 }
-.blackSquare {
+.blackSquare { /*carré noir comportant les 3 boutons*/
     position: absolute;
     margin-top: 200px;
     width: 100%;
@@ -26,21 +26,22 @@
 #MEGA{
     margin-top: 70px;
     float: left;
-    margin-left: -50px;
+    margin-left: -175px;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 70px;
 }
-#MIXER{
+#MIXER{ /*à retraivailler n'est pas fixe*/
     float: right;
     margin-top: 70px;
     font-weight: bold;
-    font-size: 40px;
-    margin-right: 650px;
+    font-size: 70px;
+    margin-right: 600px;
+
 }
 
-.buttonSelect{
+.buttonSelect{ /*boutton à retraivailler*/
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 4px double #cccccc;
     color: #eeeeee;
@@ -54,9 +55,9 @@
 
 
 }
-.buttonPlacer{
+.buttonPlacer{ /*boutton à retraivailler*/
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 4px double #cccccc;
     color: #eeeeee;
@@ -69,9 +70,9 @@
     margin-top: 15px;
     position: absolute;
 }
-.BoutonInitialisers{
+.BoutonInitialisers{ /*boutton à retraivailler*/
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 4px double #cccccc;
     color: #eeeeee;
@@ -84,9 +85,9 @@
     margin-top: 15px;
     position: absolute;
 }
-.boutonPersonne1 {
+.boutonPersonne1 { /* boutton classique tirer de l'exemple précédent */
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -102,7 +103,7 @@
 }
 .boutonPersonne2 {
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -118,7 +119,7 @@
 }
 .boutonPersonne3 {
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -134,7 +135,7 @@
 }
 .boutonPersonne4 {
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -150,7 +151,7 @@
 }
 .boutonPersonne5 {
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -166,7 +167,7 @@
 }
 .boutonPersonne6 {
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -182,7 +183,7 @@
 }
 .boutonPersonne7 {
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -198,7 +199,7 @@
 }
 .boutonPersonne8 {
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -214,7 +215,7 @@
 }
 .boutonPersonne9 {
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -230,7 +231,7 @@
 }
 .boutonPersonne10 {
     display: inline-block;
-    background-color: #f8f405;
+    background-color: #d7d613;
     border-radius: 10px;
     border: 2px double #cccccc;
     color: #eeeeee;
@@ -245,8 +246,7 @@
     position: absolute;
 }
 
-.Smiley {
-
+.Smiley { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-2.png");
     height: 134px;
     width: 129px;
@@ -326,7 +326,7 @@
     margin-left: 40px;
     position: absolute;
 }
-.Nom {
+.Nom { /* class pour le nom*/
     text-align: center;
     color: black;
     font-family: 'Varela Round';
@@ -334,7 +334,7 @@
 
 
 }
-.Prenom {
+.Prenom { /* class pour le Prenom*/
     text-align: center;
     color: black;
     font-family: 'Varela Round';
