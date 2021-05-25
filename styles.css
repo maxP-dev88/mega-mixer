@@ -14,14 +14,70 @@
 
 .blackSquare { /*carré noir comportant les 3 boutons*/
     background-color: black;
-    padding-top: 20px;
+    padding-top: 30px;
+
+
 }
-.mixers{
+
+.center{
+    position: absolute;
+    display: inline-block;
+}
+#buttonSelect {
+    background-color: #2196F3;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+}
+
+#buttonPlacer{
+    position: absolute;
+    background-color: #d7d613;
+    border: none;
+    color: #000000;
+    padding-inline: 15px 32 px;
     text-align: center;
+    display: inline-block;
+    font-size: 16px;
 }
-
-
-
-
-
-
+#buttonInitialiser {
+    position: absolute;
+    background-color: #d7d613;
+    border: none;
+    color: #000000;
+    padding-inline: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+.ArrièrePlan{
+    width: 1320px;
+    height: 730px;
+    background-color: black;
+    margin-left: 250px;
+}
+.boutonPersonne1 {
+    display: inline-block;
+    background-color: goldenrod;
+    border-radius: 10px;
+    border: 2px double #cccccc;
+    color: #eeeeee;
+    font-size: 28px;
+    margin: 10px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+.Nom { /* class pour le nom*/
+    text-align: center;
+    color: black;
+    font-family: 'Varela Round';
+    margin-top: 200px ;
+}
+.Prenom { /* class pour le Prenom*/
+    text-align: center;
+    color: black;
+    font-family: 'Varela Round';
