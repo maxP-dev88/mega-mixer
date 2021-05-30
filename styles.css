@@ -67,71 +67,61 @@
 }
 .Smiley { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-2.png");
-    height: 134px;
-    width: 129px;
+    background-repeat: no-repeat;
     margin-left: 40px;
     position: absolute;
 }
 .Smiley1 { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-3.png");
-    height: 134px;
-    width: 129px;
+    background-repeat: no-repeat;
     margin-left: 40px;
     position: absolute;
 }
 .Smiley2 { /*placement d'image dans les 10 bouttons*/
      background-image: url("smiley/smiley-4.png");
-     height: 134px;
-     width: 129px;
+     background-repeat: no-repeat;
      margin-left: 40px;
      position: absolute;
  }
 .Smiley3 { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-5.png");
-    height: 134px;
-    width: 129px;
+    background-repeat: no-repeat;
     margin-left: 40px;
     position: absolute;
 }
 .Smiley4 { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-6.png");
-    height: 134px;
-    width: 129px;
+    background-repeat: no-repeat;
     margin-left: 40px;
     position: absolute;
 }
 .Smiley5 { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-7.png");
-    height: 134px;
-    width: 129px;
+    background-repeat: no-repeat;
     margin-left: 40px;
     position: absolute;
 }
 .Smiley6 { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-8.png");
-    height: 134px;
-    width: 129px;
+    background-repeat: no-repeat;
     margin-left: 40px;
     position: absolute;
 }
 .Smiley7 { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-9.png");
-    height: 134px;
-    width: 129px;
+    background-repeat: no-repeat;
     margin-left: 40px;
     position: absolute;
 }
 .Smiley8 { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-10.png");
-    height: 134px;
-    width: 129px;
+    background-repeat: no-repeat;
     margin-left: 40px;
     position: absolute;
 }
 .Smiley9 { /*placement d'image dans les 10 bouttons*/
     background-image: url("smiley/smiley-11.png");
-    height: 134px;
-    width: 129px;
+    background-repeat: no-repeat;
     margin-left: 40px;
     position: absolute;
 }
